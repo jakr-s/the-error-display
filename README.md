@@ -19,6 +19,12 @@ A comprehensive digital platform for discovering, curating, and managing persona
 - **Real-time Search**: Instant search results with loading states and error handling
 - **Persistent Storage**: Your exhibitions are saved locally and persist between sessions
 
+## 🌐 Deployment
+
+The application is deployed on GitHub Pages and can be accessed at:
+
+**🔗 [The Error Display - Live Demo](https://jakr-s.github.io/the-error-display/)**
+
 ## 🚀 Getting Started
 
 ### Prerequisites
