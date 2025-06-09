@@ -70,7 +70,7 @@ The application is deployed on GitHub Pages and can be accessed at:
 
 ## 🔧 Tech Stack
 
-- **Frontend Framework**: React 18 with TypeScript
+- **Frontend Framework**: React 19 with TypeScript
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS
 - **State Management**: TanStack Query (React Query)
